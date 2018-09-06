@@ -1,1 +1,3 @@
+SORRY THIS IS NO LONGER MAINTAINED
+
 # UpdateNetCorePackageInfo
